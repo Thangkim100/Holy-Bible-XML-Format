@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <bible translation="Chin 1977 (Tedim Bible)" status="Tedim Bible © Bible Society of Myanmar, 1977" link="https://www.bible.com/bible/3561/1CO.16.TB77">
-	<testament name="Old">
-		<book number="1">
+	<testament name="Old Testament (Thuciam Lui)">
+		<book number="PIANCILNA">
 			<chapter number="1">
 				<verse number="1">A kipat cil-in Pasian in vantung leh leitung a piangsak hi.</verse>
 				<verse number="2">Leitung in lim leh meel nei loin a awngthawlpi ahi hi. A thuk tuipi tung tengah khuamialna om a, tua tuitung teng ah Pasian’ Kha a gamtang hi.</verse>
@@ -1636,7 +1636,7 @@
 				<verse number="26">Tua ahih ciangin kum za leh kum sawm pha-in Josef si hi; amaute in zatui tawh amah a muat loh nadingin bawl uh a, Izipt hankuang sung khatah amah kikoih hi.</verse>
 			</chapter>
 		</book>
-		<book number="2">
+		<book number="PIAKHIATNA">
 			<chapter number="1">
 				<verse number="1">Jakob tawh Izipt-ah a hong pai, amau’ innkuan ciat tawh ahi, Israel’ tapate’ minte in:</verse>
 				<verse number="2">Reuben, Simeon, Levi, leh Judah,</verse>
@@ -2931,7 +2931,7 @@
 				<verse number="38">Bang hang hiam cih leh a khualzin sung tawntung uh Israel mi khempeuh' muhna-ah biakbuk tungah sunin Topa ’ meii omin, zan-in tua sungah mei om hi.</verse>
 			</chapter>
 		</book>
-		<book number="3">
+		<book number="SIAMPI LAIBU">
 			<chapter number="1">
 				<verse number="1">Topa in Moses samin, kikhopna buk panin amah hopih-in hih bangin ci hi.</verse>
 				<verse number="2">“Israel mite tungah gen in la, amaute tungah hih bangin ci in: Note khatpeuh in Topa tungah biakna na paipih uh ciangin, ganhing tawh na biakna pen bawnghon panin hi taleh tuuhon panin hi taleh na paipih ding uh hi.</verse>
@@ -3015,7 +3015,7 @@
 				<verse number="24">keel lu tungah a khut nga-in, amaute in Topa mai, meihal biakna a gawhna mun uhah a go ding hi; tua in khialhna hanga biakna ahi hi.</verse>
 				<verse number="25">Tua ciangin siampipa in a khutme tawh khialhna hanga biakna si tawm la-in meihal biakna tau kite nuh-in, meihal biakna tau bulah si a om lai teng sung ding hi.</verse>
 				<verse number="26">Thunuam-a biakna sathaute mah bangin amah in biakna tau tungah a thau khempeuh hal ding hi; tua ahih ciangin siampipa in ama khialhna hangin ama adingin kilemna bawlsak ding hi; amah kimaisak ding hi.</verse>
-				<verse number="27">“Hih lo ding ci-in Topa ’ thupiakte khatpeuh peuh mi mawkmawk khat in theih lohna hangin hihin a khialh leh a mawh ahi hi. </verse>
+				<verse number="27">“Hih lo ding ci-in Topa ’ thupiakte khatpeuh peuh mi mawkmawk khat in theih lohna hangin hihin a khialh leh a mawh ahi hi. </verse>
 				<verse number="28">Ama gamtatnasa a khialhna ama tungah a va kihilh ciangin amah in a gamtatnasa a khialhna hangin biak nading a sitbang lo keel a nu khat paipih ding hi.</verse>
 				<verse number="29">Amah in khialhna hanga biakna lu tungah a khut nga-in, meihal biakna munah khialhna biakna pen go ding hi.</verse>
 				<verse number="30">Siampipa in a khutme tawh a si tawm la-in meihal biakna tau kite nuh ding a, biakna tau bulah a si a om laiteng sung ding hi.</verse>
@@ -3282,7 +3282,7 @@
 				<verse number="16">Ahih hangin a ma thak pen kikhel kikin a kaang a suah leh, siampipa kiangah pai ding a,</verse>
 				<verse number="17">siampipa in amah velin a natna pen a kaang a suah leh, siampipa in natna veipa a siang hi, ci-in gen ding hi; amah a siang ahi hi.</verse>
 				<verse number="18">“Mi khatpeuh’ pumpi vun sungah a damsa meimatum khat om a,</verse>
-				<verse number="19">a meimatum munah a bawk kaang ahi a, a sankang mun ahi zongin a om leh, siampipa kiangah kilak ding hi;  </verse>
+				<verse number="19">a meimatum munah a bawk kaang ahi a, a sankang mun ahi zongin a om leh, siampipa kiangah kilak ding hi;  </verse>
 				<verse number="20">siampipa in vel ding a, tua pen a vun sangin thuk zaw-in a multe a kang a suah leh, siampipa in amah a nin hi, ci-in gen ding hi; tua in phak natna hi a, meimatum sung tawnin hong phukhia ahi hi.</verse>
 				<verse number="21">Ahih hangin siampipa in velin, tua tunga a multe kaang loin a vun sangin a thuk zawk kei a, mual-in a om leh, siampipa in ni sagih sung khumcip ding hi;</verse>
 				<verse number="22">tua in a vun sung a lawh leh siampipa in amah a nin hi, ci-in gen ding hi; tua in phak natna ahi hi.</verse>
@@ -3802,7 +3802,7 @@
 				<verse number="38">Minamte lakah note na sia ding uh a, na galte uh leitang in note hong nemang ding hi.</verse>
 				<verse number="39">Note sung panin galte’ leitangah a om laite amau’ mawhna hangin kiam ding uh hi; amau’ pute pate’ mawhna hangin amau zong amaute mah bangin kiam ding uh hi.</verse>
 				<verse number="40">-</verse>
-				<verse number="41">“Ahih hangin kei tungah khemna tawh hong gamtatnasa uh leh kei tawh kilehngatin a paina uh hangin amaute tawh kilehngatin pai-in, amau galte’ leitangah amaute ka paipihna thu ahi, amau’ mawhna leh, a pu a pate’ mawhna pulakin a lungsim uh niamkhiatin, amaute in a mawhna a kipuahphat uh leh;  </verse>
+				<verse number="41">“Ahih hangin kei tungah khemna tawh hong gamtatnasa uh leh kei tawh kilehngatin a paina uh hangin amaute tawh kilehngatin pai-in, amau galte’ leitangah amaute ka paipihna thu ahi, amau’ mawhna leh, a pu a pate’ mawhna pulakin a lungsim uh niamkhiatin, amaute in a mawhna a kipuahphat uh leh;  </verse>
 				<verse number="42">tua ciangin keimah in Jakob tawh ka thuciamna ka phawk ding a, keimah in Isaak tawh ka thuciamna leh Abraham tawh ka thuciamna ka phawk ding a, keimah in leitang zong ka phawk ding hi.</verse>
 				<verse number="43">Ahih hangin amaute in leitang nusia-in, amaute om loin gamkhingin a om sung teng leitang in a sabbath-te na ngah ding hi; amaute in ka biakna ngeina kipte nialin, amaute in ka thukhamte mudah ahih manin, amaute in a mawhna uh thuak ding uh hi.</verse>
 				<verse number="44">Bang bang ahi zongin, amaute a galte uh gam sungah a om sung teng uh keimah in amaute nilkhia loin, amaute a susia maimang zah ding leh amaute tawh ka thuciamna a pelh zah dingin amaute ka mudah kei ding hi; bang hang hiam cih leh keimah in Topa amau Pasian ka hi hi;</verse>
@@ -3846,7 +3846,7 @@
 				<verse number="34">Hihte in Sinai Mual tungah Topa in Israel mite ading Moses tungah a piak thupiakte ahi hi.</verse>
 			</chapter>
 		</book>
-		<book number="4">
+		<book number="GAMLAK VAKNA">
 			<chapter number="1">
 				<verse number="1">Amaute in Izipt gam panin a paikhiat zawh uh a kum nihna, a kha nihna a ni masa ni-in, Sinai gamlak kikhopna puanbuk sungah Topa in Moses hopihin, hih bangin ci hi,</verse>
 				<verse number="2">“Israel mi honte khempeuh a mi pha zah tawh kizui-in a innkuankuan, a beh beh-in, pasal peuhmah a milip-in sim in;</verse>
@@ -5208,7 +5208,7 @@
 				<verse number="13">Hihte in Jerikho nai Jordan kiang Moab leizangah Israel mite tungah Moses tung tawnin Topa in a piak thupiaknate leh ngeina kipte ahi hi.</verse>
 			</chapter>
 		</book>
-		<book number="5">
+		<book number="THU HILHKIKNA">
 			<chapter number="1">
 				<verse number="1">Hihte in, Jordan gal khat gamlak, Suf gal khat Arabah gam sung, Paran leh Tolef, Laban, Hazeroth leh Dizahab kikalah Moses in Israelte khempeuh tungah a gen thute ahi hi.</verse>
 				<verse number="2">Tua mun pen Horeb panin Seir Mual tawnin Kadeshbarnea lamah ni sawm leh ni khat paina ahi hi.</verse>
@@ -6237,7 +6237,7 @@
 				<verse number="12">leh Israelte khempeuh muhna ah Moses in a hih a lian vangliatna leh a lauhuai hihnate khempeuh a nei, amah tawh a kibang kuamah om lo hi.</verse>
 			</chapter>
 		</book>
-		<book number="6">
+		<book number="JOSHUA">
 			<chapter number="1">
 				<verse number="1">Topa ’ nasem Moses a sih khit ciangin Topa in Moses’ nasem ahi Nun’ tapa Joshua kiangah,</verse>
 				<verse number="2">“Ka nasempa Moses si ta hi; tua ahih ciangin tu-in ding in la, nang leh hih mite khempeuh, hih Jordan kantanin Israel mite tungah ka piak gam sungah pai un.</verse>
@@ -6945,7 +6945,7 @@
 				<verse number="33">Tua ciangin Aaron’ tapa Eleazar si hi; tua ciangin amaute in Efraim mualtung gam sunga ama tungah a kipia, ama tapa Finehas’ khua Gibeah-ah vui uh hi.</verse>
 			</chapter>
 		</book>
-		<book number="7">
+		<book number="THUKHENTE">
 			<chapter number="1">
 				<verse number="1">Joshua a sih khit ciangin Israel mite in Topa tungah thu dong uh a, “Kote adingin Kanaan mite a do dingin kua paito masa ding ahi hiam?” a ci uh hi.</verse>
 				<verse number="2">Topa in “Judah paito ding hi; en un, ama khut sungah tua leitang ka pia zo hi,” a ci hi.</verse>
@@ -7607,7 +7607,7 @@
 				<verse number="25">Tua hun lai-in Israelte sungah kumpi om lo hi; amau’ hoihsak bang ciatun mi khempeuh gamta uh hi.</verse>
 			</chapter>
 		</book>
-		<book number="8">
+		<book number="RUTH">
 			<chapter number="1">
 				<verse number="1">Thukhente in a uk hun lai-in tua gam sungah kialpi tung a, Judah gam sunga Bethlehem khuami khat, amah leh a zi leh a tapa nihte tawh Moab gamah a peem dingin pai uh hi.</verse>
 				<verse number="2">A mipa min in Elimelek hi a, a zi’ min in Naomi hi-in, a tapa nihte’ min in Mahlon leh Khilion ahi hi; amaute in Judah gam Bethlehem-a Efrathah mite ahi uh hi. Amaute Moab gamah pai-in tua lai-ah om uh hi.</verse>
@@ -7702,7 +7702,7 @@
 				<verse number="22">Obed in Jessi’ pa, Jessi in David’ pa ahi hi.</verse>
 			</chapter>
 		</book>
-		<book number="9">
+		<book number="1 SAMUEL">
 			<chapter number="1">
 				<verse number="1">Efraim mi Zuf tapa Tohu, a tapa Elihu, a tapa Jeroham, a tapa Elkanah a kici min nei mi khat Efraim mual tung gam Ramathaimzofim-ah om hi.</verse>
 				<verse number="2">Amah in zi nih nei hi; khat’ min in Hannah hi a, a khat’ min in Peninnah ahi hi. Peninnah in ta nei a, ahih hangin Hannah in nei lo hi.</verse>
@@ -8576,7 +8576,7 @@
 				<verse number="13">Amaute in a guhte la-in Jabesh khua sunga makeng kung nuai-ah vui uh a, ni sagih sung an tang uh hi.</verse>
 			</chapter>
 		</book>
-		<book number="10">
+		<book number="2 SAMUEL">
 			<chapter number="1">
 				<verse number="1">Saul a sih khit, Amelekte thahna panin David a ciahkik ciangin Ziklag-ah David ni nih om hi;</verse>
 				<verse number="2">a ni thum ni-in, en in, a puan kikeekin a lu tungah lei omin Saul’ giahphual panin mi khat hong pai hi. David kiangah amah hong tun’ ciangin lei lakah pukin zahtakna bawl hi.</verse>
@@ -9321,7 +9321,7 @@
 				<verse number="25">Tua ciangin David in Topa ading biakna tau khat tua lai-ah lam a, meihal biaknate leh thunuam-a biaknate pia hi. Tua ahih ciangin tua gam adingin thuumna Topa in ngai a, Israel tung panin gimna veng hi.</verse>
 			</chapter>
 		</book>
-		<book number="11">
+		<book number="1 KUMPI">
 			<chapter number="1">
 				<verse number="1">Tu-in Kumpi David teekin kum tam ta hi; amaute in amah puan a silhsak uh hangin a khua lum thei lo hi.</verse>
 				<verse number="2">Tua ahih ciangin a nasemte in ama kiangah, “Ka to kumpipa’ adingin nungakno khat kizong hen la, amah in kumpipa enin amah a kemnu hi ta hen; ka to kumpipa a khua a lum theih nadingin na ang sungah tua nu lum hen,” a ci uh hi.</verse>
@@ -10183,7 +10183,7 @@
 				<verse number="53">Amah in Baal’ na semin bia a, a pa mah bangin a hihna khempeuh ah Israel Pasian, Topa hehsak hi.</verse>
 			</chapter>
 		</book>
-		<book number="12">
+		<book number="2 KUMPI">
 			<chapter number="1">
 				<verse number="1">Ahab a sih khit ciangin Moab gam in Israel lehdo hi.</verse>
 				<verse number="2">Tu-in Samaria a, a inndei tungnung sung a kikalh simsiam panin Ahaziah kia-in a cina hi; tua ahih ciangin amah in kamtaite sawlin amaute kiangah, “Pai un, hih cinatna panin ka damkik zo ding hiam cih thu Ekron pasian, Baalzebub kiangah va dong un,” a ci hi.</verse>
@@ -10954,7 +10954,7 @@
 				<verse number="30">tua ciangin ama ngah thuap dingin, amah a nuntak sung tawntung ni simin tanh khat, a manman a, ngahthuapna ama tungah kumpipa in pia hi.</verse>
 			</chapter>
 		</book>
-		<book number="13">
+		<book number="1 KHANG TANGTHU">
 			<chapter number="1">
 				<verse number="1">Adam’ ta Seth, Seth’ ta Enosh;</verse>
 				<verse number="2">Enosh’ ta Kenan, Kenan’ ta Mahalalel, Mahalalel’ ta Jared;</verse>
@@ -11956,7 +11956,7 @@
 				<verse number="30">ama ukna leh ama vangliatnate khempeuh leh ama tung leh Israel tung, leh gamsung kumpi gamte khempeuh tungah a tung thute a kiciamtehna tawh kigelh khawm hi.</verse>
 			</chapter>
 		</book>
-		<book number="14">
+		<book number="2 KHANG TANGTHU">
 			<chapter number="1">
 				<verse number="1">David’ tapa Solomon in ama kumpi gam kho takin lenkip hi, bang hang hiam cih leh Topa ama Pasian in ompih a, a lian mahmahin amah bawl hi.</verse>
 				<verse number="2">Solomon in Israel khempeuh tung, a tultul leh a zaza-a a ukte tung, thukhente tung, leh Israel khempeuh sunga makai khempeuhte tung, leh beh lutangte tungah thu gen hi.</verse>
@@ -12852,7 +12852,7 @@
 				<verse number="23">“Persia kumpipa Sairas in hih bangin ci hi, ‘Vantung Pasian, Topa in leitung kumpi gam khempeuh kei hong pia khin a, Judah gam sung Jerusalem khua ah ama adingin inn khat ka lamsak ding hong sawl hi. Note lakah ama mi ahi khempeuh, Topa a Pasian uh in ompih ta hen. Inn lam dingin Jerusalem ah amaute paito sak un,’ ci hi,” a ci hi.</verse>
 			</chapter>
 		</book>
-		<book number="15">
+		<book number="EZRA">
 			<chapter number="1">
 				<verse number="1">Persia kumpipa Sairas’ kum khatna kumin, Jeremiah’ tung tawnin Topa ’ thugen a tun’ theih nadingin, ama gam sung khempeuh ah tangkona khat bawlin lai-in zong a gelh nadingin Persia kumpipa Sairas’ lungsim ah Topa in suak sak hi. Amah in hih bangin hih hi:</verse>
 				<verse number="2">“Persia kumpipa Sairas in hih bangin ci hi: Vantung Pasian, Topa in leitung kumpi gam khempeuh keima tungah hong piakhin a, Judah gam sung Jerusalem khua ah ama adingin inn khat ka lamsak ding hong sawl hi.</verse>
@@ -13154,7 +13154,7 @@
 				<verse number="44">Hih mite khempeuh in gamdang numei ten’pih uh a, amaute in a zite uh a tate uh tawh ma khawm uh hi.</verse>
 			</chapter>
 		</book>
-		<book number="16">
+		<book number="NEHEMIAH">
 			<chapter number="1">
 				<verse number="1">Hakaliah’ tapa Nehemiah’ thugen in hih bang ahi hi. A kum sawmnihna Khislev kha sungin kumpi khuapi Susa-ah ka om lai takin,</verse>
 				<verse number="2">ka sanggampa Hanani leh midang pawlkhat Judah gam panin hong tung uh hi; tua ciangin keimah in Jerusalem khua thu leh sal-a matna panin a suakta ahi a om suak Judah mite’ thu tawh kisai amaute kiangah ka dong hi.</verse>
@@ -13588,7 +13588,7 @@
 				<verse number="31">Tua ciangin a kiseh hunin zat dingin cih ding sing tawh biakna leh anpal tawh biak nading ka vaihawmsak hi. Ka Pasian aw, a hoih lamin kei hong phawk in.</verse>
 			</chapter>
 		</book>
-		<book number="17">
+		<book number="ESTHER">
 			<chapter number="1">
 				<verse number="1">Hih lai-a kigen thu piangte pen India gam panin Ethiopia gam dong, gamneu za khat sawmnih-le-sagih a uk Ahasu-eras’ hun lai-a piang thu ahi hi.</verse>
 				<verse number="2">Hih hun lai takin kumpi khua ahi Susa khuapi sunga a kumpi tokhom tungah amah tu hi.</verse>
@@ -13777,7 +13777,7 @@
 				<verse number="3">Bang hang hiam cih leh Kumpipa Ahasu-eras’ zomah Mordekai in a za lianpen nihna ahi hi; Mordekai in ama mite’ phattuam nading leh a suan-le-khakte uh a khan’toh nading hanciam ahih manin Judah mite lakah milian khat hi a, a gam mihonpite in it kim uh hi.</verse>
 			</chapter>
 		</book>
-		<book number="18">
+		<book number="JOB">
 			<chapter number="1">
 				<verse number="1">Uz gamah Job kici min nei mi khat om hi; tua mipa a paubaang lo, a thutang, Pasian a zahtak mi khat hi a, amah in gamtat hoih lo peuhmah pel hi.</verse>
 				<verse number="2">Amah in tapa sagih leh tanu thum nei hi.</verse>
@@ -14933,7 +14933,7 @@
 				<verse number="17">Tua khit ciangin khan’ khinin teek sih ta hi.</verse>
 			</chapter>
 		</book>
-		<book number="19">
+		<book number="LATE">
 			<chapter number="1">
 				<verse number="1">Mi nuamsa i cih in, migilote’ thu a zui lo mi, mimawhte’ lampi-a ding lo mi, mi a thusim lote’ phual-a tu lo mi;</verse>
 				<verse number="2">ama nopsakna in Topa’ thu sung bek mah hi a, sun leh zanin ama thu a ngaihsunsun mi ahi hi.</verse>
@@ -17696,7 +17696,7 @@
 				<verse number="6">Husang theite khempeuh in Topa phat ta un! Topa phat ta un!</verse>
 			</chapter>
 		</book>
-		<book number="20">
+		<book number="PAUNAK">
 			<chapter number="1">
 				<verse number="1">David’ tapa, Israel kumpi Solomon’ paunakte:</verse>
 				<verse number="2">Mite in pilna leh thuhoihte a phawk theih nading, khiatna thuk a nei kammalte a theih theih nading.</verse>
@@ -18675,7 +18675,7 @@
 				<verse number="31">A sepna khempeuh hangin amah phat un, mi khempeuh in a zahtak dingin a kilawm ahi hi.</verse>
 			</chapter>
 		</book>
-		<book number="21">
+		<book number="THUHILHNA">
 			<chapter number="1">
 				<verse number="1">Jerusalem khua sungah kumpi a sem, David’ tapa Thugen Siampa’ thugente;</verse>
 				<verse number="2">Thugen Siampa in hih bangin ci hi: A mawknapi, a mawknapi, na khempeuh a mawknapi,</verse>
@@ -18923,7 +18923,7 @@
 				<verse number="14">Apha hita leh asia hita leh, a simtham-a i hih simte nangawn, i hihna khempeuh ah, Pasian in thu hong khen ding hi.</verse>
 			</chapter>
 		</book>
-		<book number="22">
+		<book number="SOLAMON LA">
 			<chapter number="1">
 				<verse number="1">Solomon’ la ngaihpente: Nungak:</verse>
 				<verse number="2">Na muk tawh nong tawptawp a, nong itna in leenggahzu sangin khumzaw hi.</verse>
@@ -19058,7 +19058,7 @@
 				<verse number="14">Ka ngaihno aw, sanang bangin, paknamtui kung a pona mun, mual tunga om sakhitalno bangin, kei kiangah hong pai in.</verse>
 			</chapter>
 		</book>
-		<book number="23">
+		<book number="ISAIAH">
 			<chapter number="1">
 				<verse number="1">Judah gam kumpite ahi Uzziah, Jotham, Ahaz leh Hezekiahte’ hun lai in, Amoz’ tapa Isaiah in Judah gam leh Jerusalem khua tawh kisai a muh mangmuhnate in:</verse>
 				<verse number="2">Vantungte aw, za un, leitung aw, ngai un; bang hang hiam cih leh Topa in thu hong gen khin zo hi: “Ka pattahsa tapate in kei hong lehdo uh hi.</verse>
@@ -20484,7 +20484,7 @@
 				<verse number="24">Amaute a ciah uh ciangin kei hong lehdo mite’ luanghawmte en ding uh hi; bang hang hiam cih leh amau a ne thante si ngei loin, amau a kihalna mei mit ngei lo ding a, amaute pen mi khempeuh’ kih hi ding uh hi, a ci hi.</verse>
 			</chapter>
 		</book>
-		<book number="24">
+		<book number="JEREMIAH">
 			<chapter number="1">
 				<verse number="1">Benjamin gam Anathoth khua-a siampi khat ahi, Hilkiah’ tapa Jeremiah thu gente hih bang ahi hi.</verse>
 				<verse number="2">Amon’ tapa Josiah, Judah gamah kumpi a suah zawh kum sawm leh kum thum a cin’ kum-in Topa in Jeremiah a hopih hi.</verse>
@@ -21954,7 +21954,7 @@
 				<verse number="34">A sih ni a tun’ mateng a nuntak hun sung tengin ni simin a kisapna bangin kumpipa in a pia tawntung hi.</verse>
 			</chapter>
 		</book>
-		<book number="25">
+		<book number="KAH LA">
 			<chapter number="1">
 				<verse number="1">Khat vei lai-a mi a dim taka a teen’na Jerusalem khuapi in bang zah ta-a gamdai ahi hiam? Leitung bup in a zahtak khuapi tu-in meigong tawh a kibang hi. Leitung khuapi khempeuhte’ lak panin a thupipen tu-in sal-in a kiman khin zo hi.</verse>
 				<verse number="2">Amah zan khuavakin kap a, a khitui a biang tungah a tak kauhkauh hi. Amah a it ngeite khempeuh a hehnem ding khat beek a om nawn kei hi. A kipawl pihte khempeuh in kheemin, tu in a langpan’ khin ta uh hi.</verse>
@@ -22120,7 +22120,7 @@
 				<verse number="22">Kote hong nial tawntung takpi ding na hi hiam? Na hehna in ciangtan hun nei thei lo ding ahi hiam?</verse>
 			</chapter>
 		</book>
-		<book number="26">
+		<book number="EZEKIEL">
 			<chapter number="1">
 				<verse number="1">Kum sawm thum ka phak kum, a kha lina, a ninga ni-in Babilon gam-a om Khebar Gun gei-ah sal-a om Judah midangte tawh ka om lai takin maang ka mu hi. Tua ka maang muhna-ah van hong kihong a, Pasian ka mu hi</verse>
 				<verse number="2">Tua hun pen Kumpi Jehoiakhin sal-in a kimat zawh a kum ngana, tua kha sungah a ni nga ni mah ahi hi.</verse>
@@ -23491,7 +23491,7 @@
 				<verse number="35">Khuapi kimkot a sauna tong tul sawm leh tul giat pha a, tu-a kipanin hih khuapi min in, ‘Hih lai-ah Topa om hi,’ (Jehovah Shammah) kici ding hi,” hong ci hi.</verse>
 			</chapter>
 		</book>
-		<book number="27">
+		<book number="DANIEL">
 			<chapter number="1">
 				<verse number="1">Judah kumpipa Jehoiakim kumpi a suah zawh a kum thumna kumin, Babilon kumpipa Nebukhadnezzar in Jerusalem khuapi simin a umcih hi.</verse>
 				<verse number="2">Topa in, Jehoiakim kumpipa leh biakinnpi’ na manphate Nebukhadnezzar kumpipa a mansak hi. Amah in a mi matte Babilon gam ama pasian biakinnah paipih a, na manpha a matte sum koihna innah a koih hi.</verse>
@@ -23874,7 +23874,7 @@
 				<verse number="13">Nang, Daniel na hih leh a tawp dong muanhuai takin om in. Tua ciangin na si ding a, ahih hangin hun a bei ciangin thaman sang dingin na thokik ding hi,” hong ci hi.</verse>
 			</chapter>
 		</book>
-		<book number="28">
+		<book number="HOSEA">
 			<chapter number="1">
 				<verse number="1">Judah kumpite Uzziah, Jotham, Ahaz, Hezekiah, leh Israel kumpi Joash’ tapa Jeroboam’ hun lai-in Be-eri’ tapa Hosea tungah Topa in thu na gen hi.</verse>
 				<verse number="2">Topa in Hosea tung tawnin Israelte tungah thu a na gen cil lai-in, amah in Hosea kiangah, “Hih gam mite kei tungah citak loin pasian dangte bia uh ahih manin, nang zong hong tulpih lo ding numei paktat khat ten’pih in la, tua nu tawh ta nei in,” a ci hi.</verse>
@@ -24101,7 +24101,7 @@
 				<verse number="9">Mipil, thu ngaihsun theite in hih thute thei telin lim takin ciamteh ta hen. Topa ’ lampi tang mahmah a, thutang mite in tua lampi tawn uh hi. Mawhneite in tua lampi tawn lo uh ahih manin puk uh hi.</verse>
 			</chapter>
 		</book>
-		<book number="29">
+		<book number="JOEL">
 			<chapter number="1">
 				<verse number="1">Pethuel’ tapa Joel tungah hih bangin Topa ’ thu hong tung hi.</verse>
 				<verse number="2">Ngai un, no a khangham zawdiakte aw, na bil uh ngat un, Judah gam mi khempeuh aw, Note’ khan’ sung ahi a, na pu na pate uh khan’ sung ahi zongin, hih bang thu piang ngei peuhmah ahi hiam?</verse>
@@ -24182,7 +24182,7 @@
 				<verse number="21"></verse>
 			</chapter>
 		</book>
-		<book number="30">
+		<book number="AMOS">
 			<chapter number="1">
 				<verse number="1">Tekoa khua-a teeng tuucingte lakah Amos a kici mi khat om hi. Uzziah in Judah kumpi hi-in, Joash’ tapa Jeroboam in Israel kumpi a sep laitak, zinlin’ ma kumnih hun lai takin, Pasian in Amos tungah hih thute kilangsak hi.</verse>
 				<verse number="2">Amos in, “Zion Mual panin Topa hong hawksuk a, Jerusalem khua panin hong awngkek hi. Tua ahih manin, lonona gam teng keugawp a, Karmel mual dawn dum dide teng kausan ta hi,” a ci hi.</verse>
@@ -24348,7 +24348,7 @@
 				<verse number="15">Amau adingin ka piak gam sungah amaute ka koih kik ding a, tua ka piaksa gam panin kuamah in amaute lakhia kik nawn lo ding hi, Topa, note’ Pasian in ci hi, a ci hi.</verse>
 			</chapter>
 		</book>
-		<book number="31">
+		<book number="OBADIAH">
 			<chapter number="1">
 				<verse number="1">Obadiah gen kholhna: Edom mite gam tawh kisai-in Topa Pasian in hih bangin a gen hi. Minamte lakah kamtai khat kisawl zo a, “Kithawi un! Edom mite do dingin kuankhia ni” a cihna thu ka za zo hi.</verse>
 				<verse number="2">En in, minamte lakah note kong neusak ding a, nakpi takin a hong kisimmawh ding hi.</verse>
@@ -24373,7 +24373,7 @@
 				<verse number="21">Esau mual-a thukhen ding, a honkhia ding mite Zion mualah hong paito ding uh a, tua gam in Topa ’ gam ahi ding hi.</verse>
 			</chapter>
 		</book>
-		<book number="32">
+		<book number="JONAH">
 			<chapter number="1">
 				<verse number="1">Topa in Amittai’ tapa Jonah tungah,</verse>
 				<verse number="2">“Kithawi in la, a lian mahmah Nineveh khuapi-ah va pai-in va thu hilh in; bang hang hiam cih leh amau’ gitlohna thu ka za khin zo hi,” a ci hi.</verse>
@@ -24431,7 +24431,7 @@
 				<verse number="11">Tua ahih leh keimah in ganhing tampi thamlo, a taklam khut leh a veilam khut nangawn a khen thei nai lo naupang tulza leh tulsawmnih sanga tam zawte’ teen’na, a lian mahmah Nineveh khuapi pammaih sa lo ding ka hi hiam?” ci-in a dawng kik hi.</verse>
 			</chapter>
 		</book>
-		<book number="33">
+		<book number="MIKAH">
 			<chapter number="1">
 				<verse number="1">Judah gam kumpi Jotham, Ahaz, leh Hezekiahte’ hun laitakin, Moresheth khuami Mikah tungah Topa in hih bangin thupia hi. Samaria leh Jerusalem tawh kisai-in Topa in Mikah tungah hih thute lak hi.</verse>
 				<verse number="2">No minam khempeuhte aw, hih thu za un. Leitunga teeng mi khempeuh aw, hih thu ngai un. Note’ lang khatah Topa Pasian in teci pang a, a vantung biakinn panin thu hong gen hi.</verse>
@@ -24552,7 +24552,7 @@
 				<verse number="20">Ka pu ka pate uh tungah nidang lai a, na ciamsa bangin, Abraham’ suan-le-khak ahi nangma mite tungah na cihtakna leh nong itna kip nong lak ding hi.</verse>
 			</chapter>
 		</book>
-		<book number="34">
+		<book number="NAHUM">
 			<chapter number="1">
 				<verse number="1">Hih in Nineveh khua tawh kisai thugenna hi a, Elkosh khuami Nahum’ mangmuhna a kiciamtehna lai ahi hi.</verse>
 				<verse number="2">Topa Pasian in amah a demte koihkhong lo a, amah a langpangte daantatin, a galte thukkik hi.</verse>
@@ -24607,7 +24607,7 @@
 				<verse number="19">Na liammate a dam theihna ding om lo a, na meimate a dam thei lo pawl ahi hi. Na thuakna thu a za mi khempeuh in lungdamin a khut uh beng ding hi. Bang hang hiam cih leh na gitlohna a thuak kha lo kuamah om lo hi.</verse>
 			</chapter>
 		</book>
-		<book number="35">
+		<book number="HABKKUK">
 			<chapter number="1">
 				<verse number="1">Hih in kamsang Habakkuk tungah Topa in mangmuhna sungah a gen ahi hi.</verse>
 				<verse number="2">Topa aw, bang tan vei huhna hong ngen ding a, hong za lo niloh ding na hi hiam? Gimna thuak ung, ci-in bang tan vei hong kiko ding a, hong hon loin om niloh ding na hi hiam?</verse>
@@ -24671,7 +24671,7 @@
 				<verse number="19">Topa Pasian in keima thahatna ahi hi; sakhi khe bangin ka khe hong zaptelsak a, mun sangna ah, lungmuang takin hong paisak hi. (Bang hang hiam cih leh amah in khausai lasakna vante tawh tum theihte hong makaihpa ahi hi).</verse>
 			</chapter>
 		</book>
-		<book number="36">
+		<book number="ZEFANIAH">
 			<chapter number="1">
 				<verse number="1">Amon’ tapa Josiah in Judah gamah kumpi ahih lai takin, Topa in Zefaniah’ tungah hih thu pia hi. Zefaniah’ pa Kushi hi a, Kushi’ pa Gedaliah hi a, Gedaliah’ pa Amariah hi a, Amariah’ pa in Kumpi Hezekiah ahi hi.</verse>
 				<verse number="2">Topa in hih bangin thu gen a, “Leitunga om na khempeuh ka susia ding hi.</verse>
@@ -24732,7 +24732,7 @@
 				<verse number="20">Tua hun ciangin, a kithehthang na mite uh kong kaikhawm ding a, leitung mi khempeuh in note hong pahtawi-in hong phat ding uh hi. A tawpna-ah note na cithei kik ding uh hi,” Topa in ci hi, a ci hi.</verse>
 			</chapter>
 		</book>
-		<book number="37">
+		<book number="HAGGAI">
 			<chapter number="1">
 				<verse number="1">Persia gam uk kumpi Darias in a uk a kum nihna kum, a kha gukna a ni masa ni-in, kamsang Haggai tungah Topa in thu gen hi. Tua a thu gen pen, Shealtiel’ tapa Zerubbabel, Judah gam ukpa, leh Jehozadak’ tapa Joshua, siampi lianpa tungah gen ding ahi hi.</verse>
 				<verse number="2">Vanglianpen’ Topa in thu gen a, “Hih mite in, biakinn lamkik ding hun nai lo hi, ci uh hi,” a ci hi.</verse>
@@ -24776,7 +24776,7 @@
 				<verse number="23">Ka nasem Zerubbabel aw, tua ni ciangin nang hong la-in ka min gelhna zungbuhin kong bawl ding hi. Bang hang hiam cih leh nang in ka hong teelpa na hi hi, Vanglianpen Topa in ci hi, ci-in gen in,” a ci hi.</verse>
 			</chapter>
 		</book>
-		<book number="38">
+		<book number="ZEKHARIAH">
 			<chapter number="1">
 				<verse number="1">Persia gam uk Kumpipa Darias in a uk a kum nihna kum, a kha giatna sungin, Topa in kamsang Zekhariah tungah thu gen hi. (Zekhariah in Berekhiah’ tapa hi a, ama pu in Iddo ahi hi.)</verse>
 				<verse number="2">Topa in Zekhariah kiangah, “Mite tungah hih bangin thu gen in la, ‘Na pu na pate uh tungah Topa ahi keimah ka heh mahmah hi.</verse>
@@ -25017,7 +25017,7 @@
 				<verse number="21">Jerusalem khua sung leh Judah gam sunga om beelte khempeuh, Vanglianpen Topa biakna-in zat dingin a tuamin kisiangthosak ding hi. Biakna pia dingin a hong pai mi khempeuh in tua beelte zangin, biakna sa huanna-in nei ding uh hi. Tua ni hong tun’ ciangin, Vanglianpen Topa ’ biakinn ah sumzuak van zuak cihte om nawn lo ding hi.</verse>
 			</chapter>
 		</book>
-		<book number="39">
+		<book number="MALAKHI">
 			<chapter number="1">
 				<verse number="1">Topa in Malakhi tung tawnin Israelte tungah thu gen hi.</verse>
 				<verse number="2">Topa in, “Note kong it hi,” ci hi. Ahi zongin note in, “Kote hong bangci it na hi hiam?” na ci uh hi. Topa in hong dawng a, “Esau leh Jakob in unau hi a, ahi zongin Jakob leh a suan a khakte itin,</verse>
@@ -25083,8 +25083,8 @@
 			</chapter>
 		</book>
 	</testament>
-	<testament name="New">
-		<book number="40">
+	<testament name="New Testament (Thuciam Thak">
+		<book number="MATTHAI">
 			<chapter number="1">
 				<verse number="1">Abraham’ suan, David’ suan, Zeisu Khazih’ khang ciamtehna lai inah:</verse>
 				<verse number="2">Abraham’ tapa Isaak, Isaak’ tapa Jakob, Jakob’ tapa Judah, leh a unaute teng hi.</verse>
@@ -26213,7 +26213,7 @@
 				<verse number="20">Keimah in note kong piak thukham khempeuh a tan’ dingun na hilh ta un. Keimah in leitung a bei dongin note tawh ka omkhawm tawntung ding hi,” ci-in a vaikhak hi.</verse>
 			</chapter>
 		</book>
-		<book number="41">
+		<book number="MARKA">
 			<chapter number="1">
 				<verse number="1">Pasian’ Tapa Zeisu Khazih’ Lungdamna Thu a kipatna in hih bang hi.</verse>
 				<verse number="2">Kamsang Isaiah’ Lai Siangtho sungah: “En in, na pai nading lam sial ding, Na mai-ah ka sawltakpa ka paisak ding hi.</verse>
@@ -26925,7 +26925,7 @@
 				<verse number="20">Amaute paikhia uh a, mun khempeuh ah thu a hilh uh hi. Topa in amaute’ tungah nasem a, lim tawh amaute’ thu a kipsak hi. Amen.</verse>
 			</chapter>
 		</book>
-		<book number="42">
+		<book number="LUKA">
 			<chapter number="1">
 				<verse number="1">A lian mahmah Theofilas aw, a cil panin mittang in a muh teci leh Pasian thuhilh na a sem mite in hong gen uh mah bangin,</verse>
 				<verse number="2">eite lakah a hong piangsa thu teng, eite hong zaksak a kizomin lai a gelh mi tampi a om hi.</verse>
@@ -28126,7 +28126,7 @@
 				<verse number="53">Pasian’ min phatin biakna innpi sungah a pai tawntung uh hi.</verse>
 			</chapter>
 		</book>
-		<book number="43">
+		<book number="JOHAN">
 			<chapter number="1">
 				<verse number="1">A kipatcil-in Thu a om hi. Thu in Pasian tawh a omkhawm hi. Thu in Pasian ahi hi.</verse>
 				<verse number="2">Amah in a kipatcil-in Pasian tawh a omkhawm hi.</verse>
@@ -29049,7 +29049,7 @@
 				<verse number="25">Zeisu’ hihna thu adang tampi a om lai hi. Tua ahih nate khempeuh gelh khin lehang a kigelhna laibu leitungah ta zo lo ding hi ci-in ka um hi.</verse>
 			</chapter>
 		</book>
-		<book number="44">
+		<book number="SAWLTAK">
 			<chapter number="1">
 				<verse number="1">Theofilas aw, Zeisu in ama teelsa sawltakte Kha Siangtho tawh a vaikhak khit ciangin,</verse>
 				<verse number="2">a tunglam a kilaktoh ni dong matengin a bawlsa leh a thuhilh khempeuh, a masa lai sungah ka gelh zo hi.</verse>
@@ -30114,7 +30114,7 @@
 				<verse number="31">Nawngkaina khat beek om loin, nop takin Pasian’ Gam thu gen a, Topa Zeisu Khazih’ thu a hilh hi.</verse>
 			</chapter>
 		</book>
-		<book number="45">
+		<book number="ROM">
 			<chapter number="1">
 				<verse number="1">Mipawl lamsang ah David’ suan ahi, sihna pan a thawhkikna hangin a siangtho Kha lamsang ah vangliatna a nei, Pasian’ Ta kici i Topa Zeisu Khazih ahi,</verse>
 				<verse number="2">Pasian in a Tapa thu nidang lai-inah kamsangte tungah Lai Siangtho sungah thukiciamna Lungdamna Thu hilh nadingin a teelsa sawltak a, hong koih, Khazih Zeisu’ nasem keimah Paul in</verse>
@@ -30581,7 +30581,7 @@
 				<verse number="27">pilna tawh a dim Pasian, Zeisu Khazih hangin a tawntungin minthan’na ngah ta hen! Amen.</verse>
 			</chapter>
 		</book>
-		<book number="46">
+		<book number="1 KORIN">
 			<chapter number="1">
 				<verse number="1">Pasian’ deihna hangin Khazih Zeisu’ sawltak za-ah hong koih, keimah Paul leh i sanggampa Sosthenes in</verse>
 				<verse number="2">Khazih Zeisu hangin mawhna tawh kipelh, misiangtho dinga hong koih ahi Korin khua ah a om Pasian’ pawlpite akipan, mun khempeuh ah eite Topa bek hi lo amau Topa zong ahi, Topa Zeisu Khazih kiangah thu a ngen mi khempeuhte kiangah thu kong zasak uh hi.</verse>
@@ -31052,7 +31052,7 @@
 				<verse number="24">Ka itna in Khazih Zeisu sunga om note khempeuh tawh omkhawm ta hen. Amen.</verse>
 			</chapter>
 		</book>
-		<book number="47">
+		<book number="2 KORIN">
 			<chapter number="1">
 				<verse number="1">Pasian’ deihna hangin Khazih Zeisu’ sawltak keimah Paul leh i sanggampa Timoti in Korin khua-ah a om Pasian’ pawlpi akipan Akhaia gam tengah a om misiangthote khempeuh thu kong zasak uh hi.</verse>
 				<verse number="2">I Pa Pasian leh Topa Zeisu Khazih kiang panin hehpihna thupha leh nopna nomau tungah om ta hen.</verse>
@@ -31337,7 +31337,7 @@
 				<verse number="14">Topa Zeisu Khazih’ hehpihna thupha ahi zongin, Pasian hong itna ahi zongin, Kha Siangtho’ kihotheihna ahi zongin note khempeuh tawh omkhawm ta hen.</verse>
 			</chapter>
 		</book>
-		<book number="48">
+		<book number="GALATI">
 			<chapter number="1">
 				<verse number="1">Mite kiang pan hi lo, mite’ thu tawh hi lo, Zeisu Khazih’ thu tawh ahi zongin, tua Zeisu sihna panin a thosak Pa Pasian’ thu tawh ahi zongin sawltak ahi keimah Paul akipan,</verse>
 				<verse number="2">keimah tawh a omkhawm ute naute khempeuh in Galati gamah a om pawlpite kiangah ka hong zasak uh hi.</verse>
@@ -31500,7 +31500,7 @@
 				<verse number="18">Ute naute aw, i Topa Zeisu Khazih’ hehpihna thupha in note lungsim uh tawh omkhawm ta hen. Amen.</verse>
 			</chapter>
 		</book>
-		<book number="49">
+		<book number="EFESA">
 			<chapter number="1">
 				<verse number="1">Pasian’ deihna hangin Khazih Zeisu’ sawltak ahi keimah Paul in Efesa khua-ah a om misiangthote leh Khazih Zeisu sunga midikte kiangah thu kong zasak hi.</verse>
 				<verse number="2">I Pa Pasian leh Topa Zeisu Khazih kiang pan hehpihna thupha leh nopna note tungah om ta hen.</verse>
@@ -31669,7 +31669,7 @@
 				<verse number="24">Kisia lo itna tawh i Topa Zeisu Khazih a it mite khempeuh tungah hehpihna thupha om ta hen.</verse>
 			</chapter>
 		</book>
-		<book number="50">
+		<book number="FILIPPI">
 			<chapter number="1">
 				<verse number="1">Khazih Zeisu’ silate ahi uh Paul leh Timoti in Filippi khua-ah a om pawlpi siate leh upate-a kipan Khazih Zeisu sungah kip-a a om misiangthote khempeuh thu kong zasak uh hi.</verse>
 				<verse number="2">I Pa Pasian leh Topa Zeisu Khazih kiang pan hehpihna thupha leh nopna in note tungah om ta hen.</verse>
@@ -31783,7 +31783,7 @@
 				<verse number="23">Topa Zeisu Khazih’ hehpihna thupha in note lungsim kha tawh omkhawm ta hen. Amen.</verse>
 			</chapter>
 		</book>
-		<book number="51">
+		<book number="KOLOSE">
 			<chapter number="1">
 				<verse number="1">Pasian’ deihna hangin Khazih Zeisu’ sawltak keimah leh i sangampa Timoti in Kolose khua-ah a om Khazih sungah misiangthote leh a thuman ute naute kiangah thu ka hong zasak uh hi. I Pa Pasian kiang panin hehpihna thupha leh nopna in note tungah om ta hen.</verse>
 				<verse number="2"></verse>
@@ -31888,7 +31888,7 @@
 				<verse number="18">Kei Paul in ka khut tawh note hopihna hih lai kong gelh hi. Kei’ thuak kikhihna na ngaihsun un. Note tungah hehpihna thupha om ta hen.</verse>
 			</chapter>
 		</book>
-		<book number="52">
+		<book number="1 THESALONIKA">
 			<chapter number="1">
 				<verse number="1">Paul, Silvanas leh Timoti-te in Pa Pasian leh Topa Zeisu Khazih sungah kip-a a om Thesalonika pawlpi kong zasak uh hi: Hehpihna thupha leh nopna in nomau tungah om ta hen.</verse>
 				<verse number="2">Eite Pa leh Pasian mai-ah note in umin, gamta-in, itin, hahkatin, i Topa Zeisu Khazih lamenin, na thuaknate uh kote in ka ngaihsun tawntung uh a, Pasian in a it ute naute aw, note ngah hong teelna thei-in, note khempeuh thu hangin Pasian’ hehpihna phat tawntungin note ading thu ka ngen tawntung uh hi.</verse>
@@ -31989,7 +31989,7 @@
 				<verse number="28">I Topa Zeisu Khazih’ hehpihna thupha note tungah om ta hen.</verse>
 			</chapter>
 		</book>
-		<book number="53">
+		<book number="2 THESALONIKA">
 			<chapter number="1">
 				<verse number="1">Paul, Silvanas leh Timoti te in i Pa Pasian leh Topa Zeisu Khazih sungah kip-a a om Thesalonika pawlpi kong zasak uh hi.</verse>
 				<verse number="2">Pa Pasian leh Topa Zeisu Khazih kiang pan hehpihna thupha leh nopna in nomau tungah om ta hen.</verse>
@@ -32044,7 +32044,7 @@
 				<verse number="18">I Topa Zeisu Khazih’ hehpihna thupha in note khempeuh tawh omkhawm ta hen.</verse>
 			</chapter>
 		</book>
-		<book number="54">
+		<book number="1 TIMOTI">
 			<chapter number="1">
 				<verse number="1">Eite Honpa Pasian leh i lametna Khazih Zeisu thupiakna tawh Khazih Zeisu sawltak keimah Paul in:</verse>
 				<verse number="2">Upna sungah ka ta taktak ahi Timoti kiangah kong zasak hi. Pa Pasian leh Khazih Zeisu i Topa’ hehpihna thupha, hehpihna leh nopna nangma tungah om ta hen.</verse>
@@ -32171,7 +32171,7 @@
 				<verse number="21">Tua nate’ pilna, mi kimkhat in a mang uh a, a bawl manun upna lam pan a pial zo uh hi. Nangma tungah hehpihna thupha om ta hen.</verse>
 			</chapter>
 		</book>
-		<book number="55">
+		<book number="2 TIMOTI">
 			<chapter number="1">
 				<verse number="1">Khazih Zeisu sungah a om nuntakna hong pia ning ci-in a thuciamna mah bangin, Pasian’ deihna hangin Khazih Zeisu sawltak keimah Paul in:</verse>
 				<verse number="2">Ka it ka tapa Timoti kong zasak hi. Pa Pasian leh i Topa Khazih Zeisu kiangpan hehpihna thupha, hehpihna leh nopna nang tungah om ta hen.</verse>
@@ -32264,7 +32264,7 @@
 				<verse number="22">Topa in na kha tawh omkhawm ta hen. Nangma tungah hehpihna thupha om ta hen.</verse>
 			</chapter>
 		</book>
-		<book number="56">
+		<book number="TITUS">
 			<chapter number="1">
 				<verse number="1">Zuauthu a gen thei lo Pasian in tanglai hun a tun’ ma-in thuciam a, eite Honpa Pasian’ thukham bangin kei hong piak thuhilhna tawh a kilawm hunte-ah, Pasian thu a latsakna tawh a kipawl, nuntak tawntungna lamenin, Pasian biakna lamah nopsakna tawh a kipawl thuman thutak theih nading ahi zongin, Pasian’ teel mite’ up nading ahi zongin, Pasian’ sila ahi Zeisu Khazih’ sawltak keimah Paul in:</verse>
 				<verse number="2"></verse>
@@ -32318,7 +32318,7 @@
 				<verse number="15">Keima kiangah a om mi khempeuh in nang hong hopih uh hi. Upna sungah ko hong itte na hopihsak in. Note khempeuh tungah hehpihna thupha om ta hen.</verse>
 			</chapter>
 		</book>
-		<book number="57">
+		<book number="FILEMON">
 			<chapter number="1">
 				<verse number="1">Khazih Zeisu hanga thongkia kei, Paul leh i sanggampa Timoti in kote tawh nasem a, ka it uh Filemon,</verse>
 				<verse number="2">leh i sanggamnu Apfia leh ko tawh galkap ahi khawm Arkhippas akipan, nangma inn sungah a om pawlpite ka hong zasak uh hi.</verse>
@@ -32347,7 +32347,7 @@
 				<verse number="25">Eite Topa Zeisu Khazih’ hehpihna thupha in nangma kha tawh omkhawm ta hen. Amen.</verse>
 			</chapter>
 		</book>
-		<book number="58">
+		<book number="HEBRU">
 			<chapter number="1">
 				<verse number="1">Pasian in tang lai-a kamsangte tungah, i pute pate kiangah atuam atuamin thu a piak kikkik khit ciangin, a nunung bel hih nite-ah ama Tapa tungah eite thu hong pia zo hi. Tua a Tapa na khempeuh luah dingin a koih zo hi; ama tungah zong leitung a piangsak hi.</verse>
 				<verse number="2"></verse>
@@ -32592,7 +32592,7 @@
 				<verse number="12">Tua ahih ciangin mi si tawh a kibang dektak, mi khat bek ahi Abraham panin a kisim ciangin aksi zah ahi zongin, tuipi gei-ah a kisim zo lo sehnelte zah ahi zongin tampite a suak uh hi.</verse>
 				<verse number="13">Tua a kigensa mi khempeuhte in thuciamna tawh kipawl noptuamna ngah kha loin, gamlapi pan galet-in hopihin, amaute leitungah gamdang mi zinte ahih man-unah upna sungah a si uh hi.</verse>
 				<verse number="14">Tua bang a mang mite in, amau ading gam zongin a om uh ci-in a lak uh hi.</verse>
-				<verse number="15">Tuate in a paikhiatna gam uh a ngaihsun kik hi le-uh tua gamah ciahkik nading thu a om lai hi. </verse>
+				<verse number="15">Tuate in a paikhiatna gam uh a ngaihsun kik hi le-uh tua gamah ciahkik nading thu a om lai hi. </verse>
 				<verse number="16">Ahih hangin amaute in vantung gam ahi, tua sangin a phazaw gam a deih uh hi. Tua ahih ciangin Pasian in amau Pasian a kicihna maizum loin, amau om nading khuapi a bawlkhol hi.</verse>
 				<verse number="17">Abraham in ze-etna a thuak ciangin upna tawh Isaak biakna-ah a pia hi. “Isaak tung bekah na suan na khak kici ding hi,” ci-a thupiak kholhna akipan thuciamnate lungdamin a sang mi hi-in, khat bek a neih tapa a pia hi.</verse>
 				<verse number="18"></verse>
@@ -32678,7 +32678,7 @@
 				<verse number="25">Note khempeuh tungah hehpihna thupha om ta hen. Amen.</verse>
 			</chapter>
 		</book>
-		<book number="59">
+		<book number="JAMES">
 			<chapter number="1">
 				<verse number="1">Pasian leh Topa Zeisu Khazih’ sila ahi keimah Jeim in mun khempeuh ah kikhen thangin a om, pawl sawm leh pawl nihte kong hopih hi.</verse>
 				<verse number="2">Ka u ka naute aw, ze-etna apawlpawl na thuak uh ciangin lungdam nading bek a hi ci-in na ciamteh un.</verse>
@@ -32798,7 +32798,7 @@
 				<verse number="20">midang khat in tua mi a kiheisak kik leh, mawhnei mi’ lam pialna pan kihei kiksak a, kha khat sihna pan gumkhia a, mawhna tampi a khuhsak mi ahi ding hi ci-in thei ta hen.</verse>
 			</chapter>
 		</book>
-		<book number="60">
+		<book number="1 PETER">
 			<chapter number="1">
 				<verse number="1">Zeisu Khazih’ sawltak keimah Piter in thungaihna leh Zeisu Khazih’ sisan tawh thehna a ngah nading Kha Siangtho in a sian’thosak a,</verse>
 				<verse number="2">Pa Pasian’ theih kholh bangin a teelkhiat mite ahi, Pontas gam, Galati gam, Kappadokia gam, Asia gam, Bithunia gam leitung mun khempeuh ah kikhen thangin lal-a om mite kiangah ka hong zasak hi. Hehpihna thupha leh nopna in note tungah hong khang semsem ta hen.</verse>
@@ -32915,7 +32915,7 @@
 				<verse number="14">Khat leh khat ki-itna napna tawh kihopih un. Khazih sungah a om note khempeuh tungah nopna om ta hen.</verse>
 			</chapter>
 		</book>
-		<book number="61">
+		<book number="2 PETER">
 			<chapter number="1">
 				<verse number="1">Zeisu Khazih’ sila leh sawltak keimah Simon Piter in, eite Pasian leh Honpa Zeisu Khazih’ dikna hangin kote thu-up bangin a manpha upna a ngah mite ka hong zasak hi.</verse>
 				<verse number="2">Pasian leh i Topa Zeisu’ theihtel pilna hangin hehpihna thupha leh nopna in note tungah kicing takin om ta hen.</verse>
@@ -32984,7 +32984,7 @@
 				<verse number="18">Hehpihna thupha ah ahi zongin, i Topa leh Honpa Zeisu Khazih theihtelna ah ahi zongin na khangto un. Tua Topa tungah tu-a kipan a tawntungin minthan’na om ta hen. Amen.</verse>
 			</chapter>
 		</book>
-		<book number="62">
+		<book number="1 JOHAN">
 			<chapter number="1">
 				<verse number="1">A cil panin piang a, komau in za-in, ka mittang uh tawh mu-in, a tel takpi enin, ka khut uh tawh ka lawn’ khitsa uh nuntakna Thu tawh kipawl thute, note kiangah kong zasak uh hi.</verse>
 				<verse number="2">Tua nuntakna hong kilang zo a, kote in zong ka mu zo uh a, Pa tawh omkhawm ngei-in, kote kiangah hong kilangsa tua nuntak tawntungna thu, note kiangah teci pangin kong hilh uh hi.</verse>
@@ -33101,7 +33101,7 @@
 				<verse number="21">Ka ta neute aw, milimte na tang un.</verse>
 			</chapter>
 		</book>
-		<book number="63">
+		<book number="2 JOHAN">
 			<chapter number="1">
 				<verse number="1">Upa in, eite sungah kipin eite tawh a omkhawm tawntung ding, thuman thutak hangin, kei-a kipan thuman thutak a thei mi khempeuh in a kiteel Tonu leh a tate ka hong it uh hi cih thu a zasak hi.</verse>
 				<verse number="2"></verse>
@@ -33118,7 +33118,7 @@
 				<verse number="13">A kiteel na naunu’ tate in nang hong hopih uh hi.</verse>
 			</chapter>
 		</book>
-		<book number="64">
+		<book number="3 JOHAN">
 			<chapter number="1">
 				<verse number="1">Upa in a man takin ka it Gaias kong zasak hi.</verse>
 				<verse number="2">Ka it mi aw, na lungsim a nopsak mah bangin nangmah in na khempeuhah nopsakna leh cidamna na ngah nading thu ka ngen hi.</verse>
@@ -33137,7 +33137,7 @@
 				<verse number="15">Nangma tungah nopna om ta hen. Lawmte in nang hong hopih uh hi. Na kiangah a om lawmte a minin lo-in na hopihsak in.</verse>
 			</chapter>
 		</book>
-		<book number="65">
+		<book number="JUDE">
 			<chapter number="1">
 				<verse number="1">Zeisu Khazih’ sila leh Jeim’ sanggampa keimah Juda in, Pa Pasian hangin itna ngahin, Zeisu Khazih adingin kikemin, sapna a ngah mite kiangah ka hong zasak hi.</verse>
 				<verse number="2">Note tungah hehpihna, nopna leh itna khang semsem ta hen.</verse>
@@ -33166,7 +33166,7 @@
 				<verse number="25"></verse>
 			</chapter>
 		</book>
-		<book number="66">
+		<book number="MAANGMUHNA">
 			<chapter number="1">
 				<verse number="1">A sawt loin a piang ding nate ama silate tungah lah dingin Pasian in a piaksa Zeisu Khazih’ mangmuhna lai ahi hi. Tua Topa in ama vantungmi khat sawl a, ama silapa Johan kiangah hilh hi.</verse>
 				<verse number="2">Tua Johan in ama muhna khempeuh tawh kizomin Pasian’ thu ahi zongin, Zeisu Khazih’ teci pan’na thu ahi zongin teci a pang hi.</verse>
